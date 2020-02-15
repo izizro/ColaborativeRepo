@@ -1,0 +1,14 @@
+{
+	"verduras": ["jitomate", 10, "cebolla", 5, "lechuga", 1, "limones", 20],
+	"frutas": ["mazanas", 2, "naranjas", 2, "papaya", 1, "uvas", 1],
+	"granos": ["frijoles", 1, "lentejas", 1, "garbanzos", 1, "arroz", 1],
+	"lacteos": [{
+		"tipo": "leche",
+		"marca": "Nutrileche",
+		"tamnaño": "1 lt"
+	}, "mantequilla", {
+		"tipo": "crema",
+		"marca": "Lala"
+	}],
+	"abarrotes": ["papel", "jabon ropa", "suavizante", "cloro"]
+}
